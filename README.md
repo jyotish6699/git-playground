@@ -1,3 +1,5 @@
-# Git playground
+## Features
 
-Learning professional open source workflow
+- Git workflow practice
+- Open source contribution simulation
+- Branch workflow learning
